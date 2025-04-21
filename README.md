@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I am Shah Hussain</h1>
 <h3 align="center">🔭 I'm a tech magician, orchestrating the symphony of Robust technologies to craft extraordinary digital experiences 🌱 To the world, I am a Full Stack Developer who believes on code for change. ⚡ Though I worked in vast pool of technologies, but my expertise are Web frontend/backend/full stack applications.</h3>
 
-[![committers.top badge](https://user-badge.committers.top/pakistan_private/USERNAME.svg)](https://user-badge.committers.top/pakistan_private/shhahhussain)
+[![committers.top badge](https://user-badge.committers.top/pakistan_private/shhahhussain.svg)](https://user-badge.committers.top/pakistan_private/shhahhussain)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shhahhussain&label=Profile%20views&color=0e75b6&style=flat" alt="shhahhussain" /> </p>
 
