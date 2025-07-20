@@ -9,7 +9,6 @@
 		👯 I’m looking to collaborate on WEB Projects <br />
 		⚡ fun fact: I'll probably be working if I'm not found here! <br />
 	</samp>
-	<img width="625em" src="./github-metrics.svg" />
 </p>
 <br>
 
