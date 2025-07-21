@@ -1,7 +1,7 @@
 <p align="center">
    <br />
   Hi, I'm <br />
-  (Shah) Hussain!<br />
+  Shah Hussain!<br />
   Full-stack Developer <br />
    email: shhahhussain@gmail.com <br />
    portfolio: https://shhahhussain.com <br />
