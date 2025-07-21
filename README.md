@@ -1,12 +1,12 @@
 <p align="center">
-  👋 <br />
+   <br />
   Hi, I'm <br />
   (Shah) Hussain!<br />
   Full-stack Developer <br />
-  📧 email: shhahhussain@gmail.com <br />
-  🎨 portfolio: https://shhahhussain.com <br />
-  👯 I’m looking to collaborate on WEB Projects <br />
-  ⚡ fun fact: I'll probably be working if I'm not found here! <br />
+   email: shhahhussain@gmail.com <br />
+   portfolio: https://shhahhussain.com <br />
+   I’m looking to collaborate on WEB Projects <br />
+   fun fact: I'll probably be working if I'm not found here! <br />
 </p>
 
 <p align="center">
