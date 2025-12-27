@@ -2,7 +2,7 @@
    <br />
   Hi, I'm <br />
   Shah Hussain!<br />
-  Full-stack Developer <br />
+  Full Stack AI Engineer <br />
    email: shhahhussain@gmail.com <br />
    portfolio: https://shhahhussain.com <br />
    I’m looking to collaborate on WEB Projects <br />
