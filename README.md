@@ -1,12 +1,19 @@
+<h1 align="center">Shah Hussain</h1>
 <p align="center">
-   <br />
-  Hi, I'm <br />
-  Shah Hussain!<br />
-  Full Stack AI Engineer <br />
-   email: shhahhussain@gmail.com <br />
-   portfolio: https://shhahhussain.com <br />
-   I’m looking to collaborate on WEB Projects <br />
-   fun fact: I'll probably be working if I'm not found here! <br />
+  Full Stack AI Engineer • I build production LLM systems (RAG, agents, evals) + the infra behind them
+</p>
+
+<p align="center">
+  <a href="mailto:shah@edenic.cloud">shah@edenic.cloud</a> •
+  <a href="https://edenic.cloud">edenic.cloud</a>
+</p>
+
+<p align="center">
+- LLM apps: RAG, tool-using agents, structured extraction, summarization<br/>
+- Retrieval: embeddings, chunking strategies, hybrid search, reranking, guardrails<br/>
+- Evaluation: test sets, offline evals, regression checks, prompt/version tracking<br/>
+- Backend: APIs, queues, data pipelines, multi-tenant systems<br/>
+- Deployment: Docker, Kubernetes (AKS/EKS), CI/CD, monitoring, cost control<br/>
 </p>
 
 <p align="center">
