@@ -4,11 +4,6 @@
 </p>
 
 <p align="center">
-  <a href="mailto:shah@edenic.cloud">shah@edenic.cloud</a> •
-  <a href="https://edenic.cloud">edenic.cloud</a>
-</p>
-
-<p align="center">
 - LLM apps: RAG, tool-using agents, structured extraction, summarization<br/>
 - Retrieval: embeddings, chunking strategies, hybrid search, reranking, guardrails<br/>
 - Evaluation: test sets, offline evals, regression checks, prompt/version tracking<br/>
