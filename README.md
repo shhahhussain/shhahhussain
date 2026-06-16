@@ -4,6 +4,10 @@
 </p>
 
 <p align="center">
+  Verified: LongMemEval-S - 80.8% strict (404/500). Full methodology and per-question results: <a href="https://github.com/shhahhussain/mnemo-benchmarks">mnemo-benchmarks</a>
+</p>
+
+<p align="center">
 - LLM apps: RAG, tool-using agents, structured extraction, summarization<br/>
 - Retrieval: embeddings, chunking strategies, hybrid search, reranking, guardrails<br/>
 - Evaluation: test sets, offline evals, regression checks, prompt/version tracking<br/>
