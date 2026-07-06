@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  Verified: LongMemEval-S - 80.8% strict (404/500). Full methodology and per-question results: <a href="https://github.com/shhahhussain/mnemo-benchmarks">mnemo-benchmarks</a>
+  Verified: LongMemEval-S - 85.2% (426/500). Full methodology and per-question results: <a href="https://github.com/shhahhussain/mnemo-benchmarks">mnemo-benchmarks</a>
 </p>
 
 <p align="center">
